@@ -1,0 +1,23 @@
+{
+  "root": [
+    "./src/app.tsx",
+    "./src/dummy-sessions.ts",
+    "./src/main.tsx",
+    "./src/vite-env.d.ts",
+    "./src/components/navigation/mainheader.tsx",
+    "./src/components/sessions/booksession.tsx",
+    "./src/components/sessions/sessionitem.tsx",
+    "./src/components/sessions/sessionslist.tsx",
+    "./src/components/sessions/upcomingsession.tsx",
+    "./src/components/sessions/upcomingsessions.tsx",
+    "./src/components/ui/button.tsx",
+    "./src/components/ui/input.tsx",
+    "./src/components/ui/modal.tsx",
+    "./src/pages/home.tsx",
+    "./src/pages/root.tsx",
+    "./src/pages/session.tsx",
+    "./src/pages/sessions.tsx",
+    "./src/store/sessions-context.tsx"
+  ],
+  "version": "5.6.3"
+}
